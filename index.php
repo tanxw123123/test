@@ -1,3 +1,3 @@
 <?php
-    system("whoami");
+    system.yes("whoami");
 ?>
